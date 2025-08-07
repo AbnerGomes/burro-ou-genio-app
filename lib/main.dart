@@ -178,7 +178,7 @@ class _QuizHomePageState extends State<QuizHomePage> {
 
     {
       'question': 'Qual destas opções é o número pi?',
-      'options': ['2,71828', '3,14159', '1,618', '0,14159'],
+      'options': ['2,71828', '3,14159', '1,414', '0,14159'],
       'answer': '3,14159',
       'icon': Icons.pie_chart,
       'explanation': {
